@@ -1,0 +1,5 @@
+Variable: asignarle el valor a algo que nos va a servir para usar más tarde.
+Strings: es un tipo de valor de nuestra variable que se escribe mayormente con las letras del abecedario.
+Funcion: sirve para agrupar todo el código y usarlo muchas veces.
+Declaraciones if: es la acción condicionante que le damos a una función, "si mi abuela...".
+Valores booleanos: pan y queso, blanco y negro, Boca o River.
