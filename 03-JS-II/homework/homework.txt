@@ -1,0 +1,4 @@
+For: bucle automatizado que repite por nosotros nuestro codigo, facilitando y agilizando nuestro trabajo. Sin este bucle sería imposible hacer muchas cosas.
+&&: "Y", para que funcione tienen que estar correctas ambas expresiones, sino no anda.
+||: "O", para que funcione tiene que estar correcta al menos UNA expresión (no hace falta todas). Si ninguna expresión es correcta, tampoco anda.
+!: "NO", devolverá nuestras expresiones de forma contraria a como están declaradas. Es como cuando nuestro hermano menor nos pelea por todo y hace todo al revés.
