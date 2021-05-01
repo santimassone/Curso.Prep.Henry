@@ -1,0 +1,1 @@
+Array: es una lista de elementos que se cita y maneja bajo un mismo nombre, permitiendo la utilización individual de los mismos.
