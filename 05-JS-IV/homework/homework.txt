@@ -1,0 +1,6 @@
+Objeto: es una colección de propiedades con un estado, y un comportamiento. Es decir, tiene una serie de datos almacenados y tareas que realiza con esos datos en el tiempo de ejecución.
+Propiedades: una propiedad es una asociación entre una clave y un valor. El valor de una propiedad puede ser una función, en cuyo caso la propiedad es conocida como un método.
+Metodos: un método es un bloque de código que contiene una serie de instrucciones. Un programa hace que se ejecuten las instrucciones al llamar al método y especificando los argumentos de método necesarios.
+Bucle for...in: similar al bucle FOR, comenzando igual pero entre parentesis declarando una variable, la palabra clave in y el nombre del objeto. Esto recorrerá cada clave del objeto y finalizará cuando se hayan iterado todas las claves. Podemos usar esta clave, y la notación de corchetes, en nuestro bucle for para acceder al valor asociado con esa clave.
+Notación de corchetes: es como llamar a un elemento en una matriz, aunque con corchetes debemos usar una cadena o número, o una variable que apunte a una cadena o número.
+Notación de puntos: podemos llamar al nombre del objeto, un punto y el nombre de la clave. La propiedad de longitud es un par de clave-valor.
