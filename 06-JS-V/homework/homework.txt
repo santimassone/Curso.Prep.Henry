@@ -1,0 +1,2 @@
+Prototype: forma única de establecer un método una vez y dar acceso a cada objeto de una clase a los métodos.
+Constructor: Un constructor es un método que se ejecuta de manera automática al instanciar un objeto de una clase. El constructor tiene como finalidad la incialización de las variables de la clase y posiblemente ejecutar algunos de los métodos de la clase.
