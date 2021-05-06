@@ -1,0 +1,13 @@
+
+            body{background-image: url("https://velez.com.ar/img/noticias/19/img-20190929-wa0093.jpg");}
+            
+            #thirdDiv{height: 600px;
+                     width: 500px;
+                     text-align: center;
+                    background: violet;
+                    padding: 50px;
+                    border: 1px solid black}
+                    #spanId{font-size: 18px;
+                        text-align: center;
+                             margin: 50px}
+                             
